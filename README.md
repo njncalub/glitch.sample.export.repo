@@ -1,2 +1,2 @@
 # glitch.sample.export.repo
-Testing export to GitHub functionality.
+Testing Export to GitHub functionality.
